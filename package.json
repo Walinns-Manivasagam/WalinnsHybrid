@@ -1,7 +1,7 @@
 {
-  "name": "walinnshybridsdk",
-  "version": "1.0.0",
-  "description": "SDK for hybrid application android",
+  "name": "com.plugin.walinnshybrid",
+  "version": "1.2.0",
+  "description": "hybrid sdk for mobile application",
   "cordova": {
     "id": "com.plugin.walinnshybrid",
     "platforms": [
@@ -16,7 +16,7 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "Walinns Innovation",
+  "author": "Walinns innovation",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Walinns-Manivasagam/WalinnsHybrid/issues"
